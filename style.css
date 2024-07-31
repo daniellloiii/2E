@@ -14,7 +14,7 @@
   padding: 0;
   }
  .principal {
-  background-image: url("img/backround.png");
+  background-image: url("Background.png");
   background-repeat: no-repeat;
   background-size: contain;
 
@@ -47,6 +47,16 @@
   border: 2px solid var(--branco-principal);
 
  }
+
+ :root{
+  --branco-principal: #FFFFFF;
+  --cinza-secundario: #C0C0C0;
+  --botao-azul: #167BF7;
+  --cor-de-fundo: #00030C;
+  --fonte-principal: ínter`;
+  
+
+}
 
  
 
